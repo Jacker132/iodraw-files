@@ -249,19 +249,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-17" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="700" y="173.75" width="46.55" height="67.5" as="geometry" />
+          <mxGeometry x="699" y="173.75" width="46.55" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-70" value="边界防火墙（主备）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="732.01" y="233.75" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-116" value="&lt;font color=&quot;#000000&quot;&gt;车联网应用组件后端服务&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="335" y="187.5" width="136" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-117" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lzk-lLANYk2BLLGZo68e-115" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="220" as="sourcePoint" />
-            <mxPoint x="400" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Th6z6Da_mUwmizTHPPbl-38" target="lzk-lLANYk2BLLGZo68e-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
