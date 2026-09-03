@@ -372,7 +372,7 @@
           <mxGeometry x="160" y="108" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-6" value="" style="fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="538.02" y="287.38" width="330" height="316.25" as="geometry" />
+          <mxGeometry x="538.02" y="331" width="330" height="148" as="geometry" />
         </mxCell>
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-7" value="" style="fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="123.75" width="330" height="150" as="geometry" />
@@ -572,7 +572,7 @@
           <mxGeometry x="1105" y="245" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-79" value="&lt;font color=&quot;#ff0000&quot;&gt;新集约防护架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="689.9999999999999" y="296.63" width="142.05" height="30" as="geometry" />
+          <mxGeometry x="707.9999999999999" y="339" width="142.05" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-89" value="&lt;font color=&quot;#ff0000&quot;&gt;AONE&lt;br&gt;（CDN地址池）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717" y="373.43" width="120" height="80" as="geometry" />
