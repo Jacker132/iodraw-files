@@ -305,7 +305,7 @@
           <mxGeometry x="1060" y="245" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-4" value="&lt;font color=&quot;#ff0000&quot;&gt;防火墙升级&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="538.98" y="295" width="142.05" height="30" as="geometry" />
+          <mxGeometry x="540" y="305" width="142.05" height="30" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="1V3wt3v8TPBJlg-_aOBo-5">
           <mxCell style="vsdxID=329;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
