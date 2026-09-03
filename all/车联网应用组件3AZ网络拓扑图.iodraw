@@ -641,10 +641,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PGX2mP_8TtvjGkmDSFkm-24" value="TEP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
-          <mxGeometry x="331" y="190.38" width="140" height="46" as="geometry" />
+          <mxGeometry x="331" y="177.38" width="140" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PGX2mP_8TtvjGkmDSFkm-25" value="5GCMP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
-          <mxGeometry x="331" y="253.63" width="140" height="46" as="geometry" />
+          <mxGeometry x="331" y="240.63" width="140" height="46" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="PGX2mP_8TtvjGkmDSFkm-26">
           <mxCell style="vsdxID=329;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
@@ -690,7 +690,7 @@
         <mxCell id="PGX2mP_8TtvjGkmDSFkm-38" value="边界防火墙（主备）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
           <mxGeometry x="732.01" y="233.75" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PGX2mP_8TtvjGkmDSFkm-39" value="&lt;font color=&quot;#000000&quot;&gt;天翼云&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
+        <mxCell id="PGX2mP_8TtvjGkmDSFkm-39" value="&lt;font color=&quot;#000000&quot;&gt;天翼云内网&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
           <mxGeometry x="336" y="150.5" width="136" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="PGX2mP_8TtvjGkmDSFkm-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PGX2mP_8TtvjGkmDSFkm-1" source="PGX2mP_8TtvjGkmDSFkm-6" target="PGX2mP_8TtvjGkmDSFkm-41">
@@ -738,7 +738,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGX2mP_8TtvjGkmDSFkm-53" value="AEP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
-          <mxGeometry x="331" y="317" width="140" height="46" as="geometry" />
+          <mxGeometry x="331" y="304" width="140" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0SnphbNxOX1XcFXWqNOL-0" value="AEP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="PGX2mP_8TtvjGkmDSFkm-1">
+          <mxGeometry x="331" y="364" width="140" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
