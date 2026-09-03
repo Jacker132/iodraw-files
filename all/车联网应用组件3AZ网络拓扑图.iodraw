@@ -200,7 +200,7 @@
         </mxCell>
         <UserObject label="" tags="背景" id="lzk-lLANYk2BLLGZo68e-62">
           <mxCell style="vsdxID=329;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="606.05" y="527" width="30" height="60" as="geometry" />
+            <mxGeometry x="606.05" y="527" width="45" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lzk-lLANYk2BLLGZo68e-63" style="vsdxID=330;fillColor=#FF00FF;gradientColor=#FF00FF;fillOpacity=0;strokeOpacity=0;shape=stencil(jZHdDsIgDIWfprcE2zn0es73WDImRISF4d/bC5LFucS5u9P2a3NyClQNquklIB+Cd2d5121QQAdA1FZJr0NUQDVQ1TkvT95dbZvrvklkUhd3SxceeU8QI0pbyJ+5s+H8XR8zbrSd4ONwhPec7dbTuGXFbxpLVoovfsHIzAbDtagoljz8jSOKT5SdNiZ/YjqfRx9b+W1UvwA=);points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="lzk-lLANYk2BLLGZo68e-62" vertex="1">
@@ -220,6 +220,9 @@
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-68" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=335;fillColor=#000000;gradientColor=none;shape=stencil(jZHdDoIwDIWfprdLbRH0GvE9SJhuUTcy5t/bu7kQYYmEu9P2a3NyClwPqu0lEA7e2Yt86s4r4AMQaaOk0z4o4Aa4Plknz87eTZfqvo1kVDf7iBdeaQ/jBuE7VVUhim/jmNirNhO2YsE84zeI//FxOMJ7FLv1NG2XrFApymrGLxjJbAhai+ZxBPHLMb1gOsszD630L24+);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="lzk-lLANYk2BLLGZo68e-62" vertex="1">
           <mxGeometry y="2" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1V3wt3v8TPBJlg-_aOBo-27" value="FW2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lzk-lLANYk2BLLGZo68e-62">
+          <mxGeometry x="-15" y="-19" width="60" height="19" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-69" value="&lt;font color=&quot;#ff0000&quot;&gt;边界防火墙（4台集群）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="658" y="570" width="160" height="30" as="geometry" />
@@ -342,8 +345,8 @@
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-25" value="FW2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="591.05" y="431.63" width="60" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="1V3wt3v8TPBJlg-_aOBo-27" value="FW2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="601.05" y="441.63" width="60" height="19" as="geometry" />
+        <mxCell id="1V3wt3v8TPBJlg-_aOBo-28" value="FW2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="591.05" y="587" width="60" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
