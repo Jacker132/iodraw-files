@@ -494,7 +494,7 @@
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-68" value="边界防火墙（主备）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="732.01" y="233.75" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Oeb9Abmg1e7okdfKlpFf-69" value="&lt;font color=&quot;#000000&quot;&gt;车联网应用组件后端服务&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Oeb9Abmg1e7okdfKlpFf-69" value="&lt;font color=&quot;#000000&quot;&gt;天翼云&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="336" y="150.5" width="136" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oeb9Abmg1e7okdfKlpFf-5" target="Oeb9Abmg1e7okdfKlpFf-71">
