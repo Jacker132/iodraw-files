@@ -160,23 +160,9 @@
         <mxCell id="lzk-lLANYk2BLLGZo68e-94" value="&lt;font color=&quot;#ff0000&quot;&gt;AONE&lt;br&gt;（CDN地址池）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="390.75" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-95" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="293.75" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-97" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;entryX=0.525;entryY=0.141;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lzk-lLANYk2BLLGZo68e-95" edge="1">
+        <mxCell id="lzk-lLANYk2BLLGZo68e-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" target="lzk-lLANYk2BLLGZo68e-94" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="210" as="sourcePoint" />
-            <mxPoint x="890" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-109" value="API/商城请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lzk-lLANYk2BLLGZo68e-97" vertex="1" connectable="0">
-          <mxGeometry x="0.1598" y="-1" relative="1" as="geometry">
-            <mxPoint x="6" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="lzk-lLANYk2BLLGZo68e-95" target="lzk-lLANYk2BLLGZo68e-94" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="443.75" as="sourcePoint" />
+            <mxPoint x="916" y="369.75" as="sourcePoint" />
             <mxPoint x="880" y="393.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
