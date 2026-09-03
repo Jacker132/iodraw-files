@@ -537,9 +537,6 @@
         <mxCell id="mMad-7PhY39Ef-xHBFf9-78" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=335;fillColor=#000000;gradientColor=none;shape=stencil(jZHdDoIwDIWfprdLbRH0GvE9SJhuUTcy5t/bu7kQYYmEu9P2a3NyClwPqu0lEA7e2Yt86s4r4AMQaaOk0z4o4Aa4Plknz87eTZfqvo1kVDf7iBdeaQ/jBuE7VVUhim/jmNirNhO2YsE84zeI//FxOMJ7FLv1NG2XrFApymrGLxjJbAhai+ZxBPHLMb1gOsszD630L24+);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-72">
           <mxGeometry width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMad-7PhY39Ef-xHBFf9-79" value="&lt;font color=&quot;#ff0000&quot;&gt;部分车企侧防火墙&lt;br&gt;需要添加出站白名单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6aa84f;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-1">
-          <mxGeometry x="1105" y="245" width="140" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="mMad-7PhY39Ef-xHBFf9-80" value="&lt;font color=&quot;#ff0000&quot;&gt;新集约防护架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-1">
           <mxGeometry x="690.9799999999999" y="72.25" width="142.05" height="30" as="geometry" />
         </mxCell>
