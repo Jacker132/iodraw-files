@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="4PbbPIddFAVWNdoxx0no" name="第 10 页">
     <mxGraphModel dx="1436" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="182.63" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-35" value="" style="strokeWidth=2;strokeDasharray=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1064" y="115" width="280" height="180" as="geometry" />
+          <mxGeometry x="1095" y="115" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-36" value="&lt;b&gt;车企侧平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
           <mxGeometry y="-20" width="280" height="20" as="geometry" />
@@ -95,14 +95,14 @@
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Th6z6Da_mUwmizTHPPbl-37" edge="1" target="lzk-lLANYk2BLLGZo68e-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="774" y="340" as="sourcePoint" />
-            <mxPoint x="1104" y="210" as="targetPoint" />
+            <mxPoint x="805" y="340" as="sourcePoint" />
+            <mxPoint x="1135" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.056;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lzk-lLANYk2BLLGZo68e-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1084" y="214" as="sourcePoint" />
-            <mxPoint x="965.0000000000005" y="204.75" as="targetPoint" />
+            <mxPoint x="1115" y="214" as="sourcePoint" />
+            <mxPoint x="996.0000000000005" y="204.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-108" value="API/商城请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lzk-lLANYk2BLLGZo68e-89" vertex="1" connectable="0">
@@ -262,13 +262,13 @@
         </mxCell>
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Th6z6Da_mUwmizTHPPbl-38" target="lzk-lLANYk2BLLGZo68e-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1224" y="266" as="sourcePoint" />
-            <mxPoint x="1104" y="220" as="targetPoint" />
+            <mxPoint x="1255" y="266" as="sourcePoint" />
+            <mxPoint x="1135" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="" tags="背景" id="lzk-lLANYk2BLLGZo68e-79">
           <mxCell style="vsdxID=329;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-            <mxGeometry x="1104" y="173" width="30" height="60" as="geometry" />
+            <mxGeometry x="1135" y="173" width="30" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lzk-lLANYk2BLLGZo68e-80" style="vsdxID=330;fillColor=#FF00FF;gradientColor=#FF00FF;fillOpacity=0;strokeOpacity=0;shape=stencil(jZHdDsIgDIWfprcE2zn0es73WDImRISF4d/bC5LFucS5u9P2a3NyClQNquklIB+Cd2d5121QQAdA1FZJr0NUQDVQ1TkvT95dbZvrvklkUhd3SxceeU8QI0pbyJ+5s+H8XR8zbrSd4ONwhPec7dbTuGXFbxpLVoovfsHIzAbDtagoljz8jSOKT5SdNiZ/YjqfRx9b+W1UvwA=);points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="lzk-lLANYk2BLLGZo68e-79" vertex="1">
@@ -290,7 +290,7 @@
           <mxGeometry width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-40" value="&lt;font color=&quot;#ff0000&quot;&gt;部分车企侧防火墙&lt;br&gt;需要添加出站白名单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6aa84f;" parent="1" vertex="1">
-          <mxGeometry x="1074" y="245" width="140" height="35" as="geometry" />
+          <mxGeometry x="1105" y="245" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-4" value="&lt;font color=&quot;#ff0000&quot;&gt;新集约防护架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="689.9999999999999" y="296.63" width="142.05" height="30" as="geometry" />
@@ -348,6 +348,14 @@
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-28" value="FW4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="591.05" y="587" width="60" height="19" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jMvEsBTZcLYlvHHKlo9I" name="第 2 页">
+    <mxGraphModel dx="1221" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
