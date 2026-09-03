@@ -333,7 +333,7 @@
         <mxCell id="lzk-lLANYk2BLLGZo68e-94" value="&lt;font color=&quot;#ff0000&quot;&gt;AONE&lt;br&gt;（CDN地址池）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737" y="390.75" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1V3wt3v8TPBJlg-_aOBo-18" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="1V3wt3v8TPBJlg-_aOBo-18" value="动态防护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="555.46" y="173" width="46.55" height="67.5" as="geometry" />
         </mxCell>
       </root>
