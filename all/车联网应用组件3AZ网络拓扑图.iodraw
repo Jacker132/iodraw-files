@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-94" value="&lt;font color=&quot;#ff0000&quot;&gt;AONE&lt;br&gt;（CDN地址池）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="847" y="390.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="850" y="390.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="lzk-lLANYk2BLLGZo68e-78" target="lzk-lLANYk2BLLGZo68e-94" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -289,7 +289,7 @@
         </mxCell>
         <UserObject label="" tags="背景" id="lzk-lLANYk2BLLGZo68e-79">
           <mxCell style="vsdxID=329;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-            <mxGeometry x="1090" y="180" width="30" height="60" as="geometry" />
+            <mxGeometry x="1090" y="179" width="30" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lzk-lLANYk2BLLGZo68e-80" style="vsdxID=330;fillColor=#FF00FF;gradientColor=#FF00FF;fillOpacity=0;strokeOpacity=0;shape=stencil(jZHdDsIgDIWfprcE2zn0es73WDImRISF4d/bC5LFucS5u9P2a3NyClQNquklIB+Cd2d5121QQAdA1FZJr0NUQDVQ1TkvT95dbZvrvklkUhd3SxceeU8QI0pbyJ+5s+H8XR8zbrSd4ONwhPec7dbTuGXFbxpLVoovfsHIzAbDtagoljz8jSOKT5SdNiZ/YjqfRx9b+W1UvwA=);points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="lzk-lLANYk2BLLGZo68e-79" vertex="1">
@@ -308,7 +308,7 @@
           <mxGeometry x="2" y="6.599999999999999" width="26" height="49.79999999999999" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-85" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=335;fillColor=#000000;gradientColor=none;shape=stencil(jZHdDoIwDIWfprdLbRH0GvE9SJhuUTcy5t/bu7kQYYmEu9P2a3NyClwPqu0lEA7e2Yt86s4r4AMQaaOk0z4o4Aa4Plknz87eTZfqvo1kVDf7iBdeaQ/jBuE7VVUhim/jmNirNhO2YsE84zeI//FxOMJ7FLv1NG2XrFApymrGLxjJbAhai+ZxBPHLMb1gOsszD630L24+);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="lzk-lLANYk2BLLGZo68e-79" vertex="1">
-          <mxGeometry y="-7" width="30" height="60" as="geometry" />
+          <mxGeometry width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
