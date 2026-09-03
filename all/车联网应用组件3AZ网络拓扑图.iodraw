@@ -17,10 +17,7 @@
           <mxGeometry x="160" y="30" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-38" value="车企实名制平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
-          <mxGeometry x="160" y="115" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Th6z6Da_mUwmizTHPPbl-40" value="&lt;font color=&quot;#ff0000&quot;&gt;部分车企侧防火墙&lt;br&gt;需要添加出站白名单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6aa84f;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
-          <mxGeometry x="10" y="120" width="140" height="35" as="geometry" />
+          <mxGeometry x="160" y="108" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-23" value="" style="fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="293.75" width="260" height="300.5" as="geometry" />
@@ -309,6 +306,9 @@
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-85" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=335;fillColor=#000000;gradientColor=none;shape=stencil(jZHdDoIwDIWfprdLbRH0GvE9SJhuUTcy5t/bu7kQYYmEu9P2a3NyClwPqu0lEA7e2Yt86s4r4AMQaaOk0z4o4Aa4Plknz87eTZfqvo1kVDf7iBdeaQ/jBuE7VVUhim/jmNirNhO2YsE84zeI//FxOMJ7FLv1NG2XrFApymrGLxjJbAhai+ZxBPHLMb1gOsszD630L24+);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="lzk-lLANYk2BLLGZo68e-79" vertex="1">
           <mxGeometry width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Th6z6Da_mUwmizTHPPbl-40" value="&lt;font color=&quot;#ff0000&quot;&gt;部分车企侧防火墙&lt;br&gt;需要添加出站白名单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6aa84f;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="245" width="140" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
