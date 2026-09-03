@@ -251,9 +251,6 @@
             <mxPoint x="670" y="451.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-110" value="&lt;font color=&quot;#ff0000&quot;&gt;逃生备：222.93.105.144&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="566.02" y="493.75" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-14" value="&lt;font color=&quot;#000000&quot;&gt;目前生产环境&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="543.98" y="126.75" width="130" height="22.5" as="geometry" />
         </mxCell>
