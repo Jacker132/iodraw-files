@@ -389,9 +389,6 @@
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-11" value="B2B2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="101" y="227.63" width="140" height="49.6" as="geometry" />
         </mxCell>
-        <mxCell id="Oeb9Abmg1e7okdfKlpFf-12" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="101" y="289.63" width="140" height="49.6" as="geometry" />
-        </mxCell>
         <mxCell id="Oeb9Abmg1e7okdfKlpFf-15" value="VCMP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="101" y="105.63" width="140" height="49.6" as="geometry" />
         </mxCell>
