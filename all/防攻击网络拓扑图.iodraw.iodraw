@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 10 页 的副本" id="ttL87NmfRsBnbuwHqGGk">
-    <mxGraphModel dx="1221" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mMad-7PhY39Ef-xHBFf9-0" />
         <mxCell id="mMad-7PhY39Ef-xHBFf9-1" parent="mMad-7PhY39Ef-xHBFf9-0" />
@@ -362,7 +362,7 @@
         <mxCell id="mMad-7PhY39Ef-xHBFf9-3" value="" style="strokeWidth=2;strokeDasharray=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-1">
           <mxGeometry x="1095" y="115" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="mMad-7PhY39Ef-xHBFf9-4" value="&lt;b&gt;车企侧平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-3">
+        <mxCell id="mMad-7PhY39Ef-xHBFf9-4" value="&lt;b&gt;客户侧平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-3">
           <mxGeometry y="-20" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mMad-7PhY39Ef-xHBFf9-5" value="XX客户A平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="mMad-7PhY39Ef-xHBFf9-3">
