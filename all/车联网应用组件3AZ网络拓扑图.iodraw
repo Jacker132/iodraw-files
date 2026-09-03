@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="182.63" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-35" value="" style="strokeWidth=2;strokeDasharray=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="123.75" width="280" height="180" as="geometry" />
+          <mxGeometry x="1050" y="115" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-36" value="&lt;b&gt;车企侧平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
           <mxGeometry y="-20" width="280" height="20" as="geometry" />
@@ -289,7 +289,7 @@
         </mxCell>
         <UserObject label="" tags="背景" id="lzk-lLANYk2BLLGZo68e-79">
           <mxCell style="vsdxID=329;fillColor=none;gradientColor=none;strokeColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-            <mxGeometry x="1090" y="179" width="30" height="60" as="geometry" />
+            <mxGeometry x="1090" y="173" width="30" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lzk-lLANYk2BLLGZo68e-80" style="vsdxID=330;fillColor=#FF00FF;gradientColor=#FF00FF;fillOpacity=0;strokeOpacity=0;shape=stencil(jZHdDsIgDIWfprcE2zn0es73WDImRISF4d/bC5LFucS5u9P2a3NyClQNquklIB+Cd2d5121QQAdA1FZJr0NUQDVQ1TkvT95dbZvrvklkUhd3SxceeU8QI0pbyJ+5s+H8XR8zbrSd4ONwhPec7dbTuGXFbxpLVoovfsHIzAbDtagoljz8jSOKT5SdNiZ/YjqfRx9b+W1UvwA=);points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="lzk-lLANYk2BLLGZo68e-79" vertex="1">
