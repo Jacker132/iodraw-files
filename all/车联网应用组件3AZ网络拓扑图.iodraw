@@ -246,7 +246,7 @@
           <mxGeometry x="690" y="123.75" width="130" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-17" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="637.46" y="173.75" width="109.09" height="67.5" as="geometry" />
+          <mxGeometry x="700" y="173.75" width="46.55" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-70" value="边界防火墙（主备）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="732.01" y="233.75" width="160" height="30" as="geometry" />
@@ -332,6 +332,9 @@
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-94" value="&lt;font color=&quot;#ff0000&quot;&gt;AONE&lt;br&gt;（CDN地址池）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737" y="390.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1V3wt3v8TPBJlg-_aOBo-18" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="555.46" y="173" width="46.55" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
