@@ -221,7 +221,7 @@
         <mxCell id="lzk-lLANYk2BLLGZo68e-68" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=335;fillColor=#000000;gradientColor=none;shape=stencil(jZHdDoIwDIWfprdLbRH0GvE9SJhuUTcy5t/bu7kQYYmEu9P2a3NyClwPqu0lEA7e2Yt86s4r4AMQaaOk0z4o4Aa4Plknz87eTZfqvo1kVDf7iBdeaQ/jBuE7VVUhim/jmNirNhO2YsE84zeI//FxOMJ7FLv1NG2XrFApymrGLxjJbAhai+ZxBPHLMb1gOsszD630L24+);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="lzk-lLANYk2BLLGZo68e-62" vertex="1">
           <mxGeometry y="2" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V3wt3v8TPBJlg-_aOBo-27" value="FW2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lzk-lLANYk2BLLGZo68e-62">
+        <mxCell id="1V3wt3v8TPBJlg-_aOBo-27" value="FW&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lzk-lLANYk2BLLGZo68e-62">
           <mxGeometry x="-15" y="-19" width="60" height="19" as="geometry" />
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-69" value="&lt;font color=&quot;#ff0000&quot;&gt;边界防火墙（4台集群）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
