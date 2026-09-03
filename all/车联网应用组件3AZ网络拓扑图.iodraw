@@ -19,7 +19,7 @@
         <mxCell id="Th6z6Da_mUwmizTHPPbl-38" value="车企实名制平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
           <mxGeometry x="160" y="115" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Th6z6Da_mUwmizTHPPbl-40" value="&lt;font color=&quot;#ff0000&quot;&gt;车企侧防火墙&lt;br&gt;添加出站白名单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6aa84f;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
+        <mxCell id="Th6z6Da_mUwmizTHPPbl-40" value="&lt;font color=&quot;#ff0000&quot;&gt;部分车企侧防火墙&lt;br&gt;需要添加出站白名单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6aa84f;" parent="Th6z6Da_mUwmizTHPPbl-35" vertex="1">
           <mxGeometry x="10" y="120" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-23" value="" style="fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-3" value="" style="strokeWidth=2;strokeDasharray=8 8;fillColor=none;strokeColor=#333333;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="122.63" width="160" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="Th6z6Da_mUwmizTHPPbl-41" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;视客户侧&lt;br&gt;情况而定&lt;/b&gt;" style="fillColor=#00CCCC;strokeColor=#70ad47;fontColor=#ffffff;html=1;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Th6z6Da_mUwmizTHPPbl-4" value="内部系统&#xa;(苏州资源池)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="92.63" width="160" height="20" as="geometry" />
@@ -182,15 +179,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="443.75" as="sourcePoint" />
             <mxPoint x="880" y="393.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lzk-lLANYk2BLLGZo68e-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0.4;entryY=1.257;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.053;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00CCCC;" parent="1" source="Th6z6Da_mUwmizTHPPbl-41" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110" y="400" as="sourcePoint" />
-            <mxPoint x="1080" y="281.9949999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1110" y="401" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lzk-lLANYk2BLLGZo68e-56" value="TEP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
