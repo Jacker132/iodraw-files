@@ -293,7 +293,7 @@
           <mxGeometry x="1060" y="245" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-4" value="&lt;font color=&quot;#ff0000&quot;&gt;新集约防护架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="701.05" y="296.63" width="142.05" height="30" as="geometry" />
+          <mxGeometry x="725.9699999999999" y="296.63" width="142.05" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1V3wt3v8TPBJlg-_aOBo-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="lzk-lLANYk2BLLGZo68e-94" target="1V3wt3v8TPBJlg-_aOBo-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
